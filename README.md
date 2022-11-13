@@ -1,4 +1,4 @@
-### Hello there!
+### Hello there! 👋
 
 - I'm currently working on HTML websites as I finish an HTML course. 
 - After I feel comfortable writing HTML code, I will go on to learn CSS in more depth. 
